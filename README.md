@@ -10,5 +10,4 @@ debian/ubuntu: `sudo apt install libsdl2-dev`
 fedora: `sudo dnf install SDL2-devel`
 macos (homebrew): `brew install sdl2`
 
-for windows get prebuilt the binaries:
-![https://github.com/libsdl-org/SDL/releases](click here)
+for windows get prebuilt the binaries: https://github.com/libsdl-org/SDL/releases
