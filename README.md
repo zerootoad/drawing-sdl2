@@ -1,7 +1,10 @@
 # drawing-sdl2
 A very simple drawing application using sdl2 in zig 
 
-Yeah this could also do as project template
+Yeah this could also do as project template.
+
+![image](https://github.com/user-attachments/assets/b0847104-7a60-4c2b-84aa-429557a9a90b)
+
 
 # SDL2 setup
 Install the sdl2 dependencies for ur os:
