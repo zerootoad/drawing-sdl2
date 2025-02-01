@@ -1,6 +1,4 @@
-### For SDL3 checkout: [click me](https://github.com/zerootoad/drawing-sdl3/)
-
-# Drawing-SDL2
+# Drawing-SDL2 (SDL3: [click me](https://github.com/zerootoad/drawing-sdl3/))
 A simple drawing application using SDL2 in Zig.
 
 This project can also serve as a template for SDL2-based Zig projects.
